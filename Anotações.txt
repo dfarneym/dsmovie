@@ -1,0 +1,4 @@
+Anotações curso-rápido java/react
+
+Criando uma pasta com o Nome frontend e templete Type
+-yarn create react-app frontend --template typescript
